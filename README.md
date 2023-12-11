@@ -4,7 +4,7 @@
 
 Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 
-**About me**
+**Sobre mim**
 
 - 💼 Data Analyst e Engineering Analyst no Itaú Unibanco
 

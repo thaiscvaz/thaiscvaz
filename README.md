@@ -22,8 +22,7 @@ Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 <code><img height="20" alt="aws" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
 <code><img height="20" alt="docker" src="https://www.svgrepo.com/show/452192/docker.svg"></code>
 <code><img height="20" alt="hadoop" src="https://www.svgrepo.com/show/353851/hadoop.svg"></code>
-
-
+<code><img height="20" alt="sas" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg"></code>
 
 
 <br />

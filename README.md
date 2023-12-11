@@ -2,7 +2,7 @@
 
 <br />
 
-## Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
+## Sou Data Analyst e Engineering Analyst  🇧🇷
 
 **Sobre mim**
 

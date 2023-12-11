@@ -28,7 +28,9 @@ Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 <br />
 <br />
 
-<a href="[https://www.linkedin.com/in/thacvaz/](https://www.linkedin.com/in/thacvaz/)">
-  <img align="right" alt="Thais Vaz | Linkedin" width="21px" src="https://raw.githubusercontent.com/thaiscvaz/thaiscvaz/main/imagens/LinkedIn.svg" />
 </a>
+<a href="https://www.linkedin.com/in/thacvaz/">
+  <img align="right" alt="Thais Vaz | Linkedin" width="20px" src="https://raw.githubusercontent.com/thaiscvaz/thaiscvaz/main/imagens/LinkedIn.svg" />
+</a>
+
 

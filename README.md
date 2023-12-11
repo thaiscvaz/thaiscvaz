@@ -14,7 +14,7 @@ Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 
 - 💬 Ask me about anything [here](https://github.com/thaiscvaz/thaiscvaz/questions)
 
-<code><img height="20" alt="linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"></code>
+<code><img height="20" alt="mysql" src="[https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png)"></code>
 <code><img height="20" alt="discord" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  
 
 <br />

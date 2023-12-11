@@ -12,7 +12,7 @@ Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 
 - ❤️ Adoro aprender e ajudar a outras pessoas.
 
-- 💬 Ask me about anything [here](https://github.com/thaiscvaz/thaiscvaz/questions)
+- 💬 Ask me about anything [here](https://github.com/thaiscvaz/thaiscvaz/issues)
 
 <code><img height="20" alt="mysql" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"></code>
 <code><img height="20" alt="regex" src="https://www.svgrepo.com/show/361284/regex.svg"></code>

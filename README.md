@@ -14,15 +14,14 @@ Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 
 - 💬 Ask me about anything [here](https://github.com/thaiscvaz/thaiscvaz/questions)
 
-<code><img height="20" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png"></code>
-<code><img height="20" alt="discord" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  
+<code><img height="20" alt="mysql" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"></code>
+<code><img height="20" alt="regex" src="https://www.svgrepo.com/show/361284/regex.svg"></code>
+<code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 
 <br />
 <br />
 
-<a href="[https://twitter.com/anuraghazru](https://www.linkedin.com/in/thacvaz/)">
-  <img align="right" alt="Thais Vaz | Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="[https://www.linkedin.com/in/thacvaz/](https://www.linkedin.com/in/thacvaz/)">
+  <img align="right" alt="Thais Vaz | Linkedin" width="21px" src="" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+

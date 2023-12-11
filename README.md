@@ -1,8 +1,8 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Olá, Sou a Thais Vaz!! Bem vindo ao meu mundo." src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/thacvaz/"><img width="80%" alt="Olá, Sou a Thais Vaz!! Bem vindo ao meu mundo." src="./imagens/readme.png" /></a></p>
 
 <br />
 
-Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
+## Sou Data Analyst e Engineering Analyst no Brasil 🇧🇷
 
 **Sobre mim**
 

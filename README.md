@@ -6,7 +6,7 @@
 
 **About me
 
-- 💼 Data Analyst and Engineering Analyst at Itaú Unibanco
+- 💼 Data Analyst and Engineering Analyst at HCL Tech hired by Apple Inc.
 
 - 📈 Knowledge Dissemination Project - #DataForAll (Linkedin + GitHub)
 

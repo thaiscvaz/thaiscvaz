@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Data Analyst and Data Engineering  🇧🇷
+## I'm a Data Analyst and Data Engineering 🇧🇷 Apple Inc.
 
 **About me
 

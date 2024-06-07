@@ -2,17 +2,17 @@
 
 <br />
 
-## Sou Data Analyst e Engineering Analyst  🇧🇷
+## I'm a Data Analyst and Engineering Analyst  🇧🇷
 
-**Sobre mim**
+**About me
 
-- 💼 Data Analyst e Engineering Analyst no Itaú Unibanco
+- 💼 Data Analyst and Engineering Analyst at Itaú Unibanco
 
-- 📈 Projeto de Disseminar Conhecimento - #DataForAll (Linkedin + GitHub)
+- 📈 Knowledge Dissemination Project - #DataForAll (Linkedin + GitHub)
 
-- ❤️ Adoro aprender e ajudar a outras pessoas.
+- ❤️ I love learning and helping other people.
 
-- 💬 Pergunte-me sobre qualquer coisa [here](https://github.com/thaiscvaz/thaiscvaz/issues)
+- 💬 Ask me about anything [here](https://github.com/thaiscvaz/thaiscvaz/issues)
 
 <code><img height="20" alt="mysql" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"></code>
 <code><img height="20" alt="regex" src="https://www.svgrepo.com/show/361284/regex.svg"></code>

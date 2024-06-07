@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/thacvaz/"><img width="80%" alt="Olá, Sou a Thais Vaz!! Bem vindo ao meu mundo." src="./imagens/readme.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/thacvaz/"><img width="80%" alt="Olá, Sou a Thais Vaz!! Bem vindo ao meu mundo." src="./imagens/readme202406.png" /></a></p>
 
 <br />
 

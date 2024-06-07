@@ -2,11 +2,11 @@
 
 <br />
 
-## I'm a Data Analyst and Engineering Analyst  🇧🇷
+## I'm a Data Analyst and Data Engineering  🇧🇷
 
 **About me
 
-- 💼 Data Analyst and Engineering Analyst at HCL Tech hired by Apple Inc.
+- 💼 Data Analyst and Data Engineering at HCL Tech hired by Apple Inc.
 
 - 📈 Knowledge Dissemination Project - #DataForAll (Linkedin + GitHub)
 
